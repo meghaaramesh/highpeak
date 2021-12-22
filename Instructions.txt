@@ -1,0 +1,7 @@
+• From the sample input given all the lines are appended into a list
+• Then number in the line is accesssed and appended into one more list
+• Then new list which has all the number values will be sorted
+• Then by considering the input given those many elements will be removed from centre and appended into  a new list
+• Then index of all elements in original list is found by comparison
+• By the index found, the product and it's value is printed 
+• Finally the dofference between the highest and lowest value in the new list is printed
