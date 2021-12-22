@@ -1,0 +1,10 @@
+Fitbit: 7980
+IPods: 22349
+MI: 999
+Cult: 2799
+Macbook: 229900
+Digital: 11101
+Alexa: 9999
+Sandwich: 2195
+Microwave: 9800
+Scale: 4999

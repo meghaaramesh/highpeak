@@ -1,0 +1,41 @@
+Number of employees : 2
+
+Fitbit:7980
+Microwave:9800
+
+And the difference between the chosen goodie with highest price and lowest price is 1820
+
+
+
+Number of employees : 3
+
+Fitbit:7980
+Microwave:9800
+Alexa:9999
+
+And the difference between the chosen goodie with highest price and lowest price is 2019
+
+
+
+Number of employees : 5
+
+Scale:4999
+Fitbit:7980
+Microwave:9800
+Alexa:9999
+Digital:11101
+
+And the difference between the chosen goodie with highest price and lowest price is 6102
+
+
+
+Number of employees : 6
+
+Cult:2799
+Scale:4999
+Fitbit:7980
+Microwave:9800
+Alexa:9999
+Digital:11101
+
+And the difference between the chosen goodie with highest price and lowest price is 8302
